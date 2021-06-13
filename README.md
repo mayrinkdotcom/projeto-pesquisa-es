@@ -9,8 +9,8 @@
 Projeto desenvolvido para a disciplina de Introdução a Pesquisa em Informática no curso de Engenharia de Software da PUC Minas, lecionada pelo professor Lesandro Ponciano (lesandrop@pucminas.br).
 
 Autores:
-  - João Pedro Mayrink de Jesus
-  - Renan Cleyson Fagundes Pereira
+  - João Pedro Mayrink de Jesus (joaopmayrinkj@gmail.com)
+  - Renan Cleyson Fagundes Pereira (renancleyson.f@gmail.com)
 
 O projeto consiste na validação do uso de versionamento de código empregando o fluxo de trabalho do Git Flow. Através de análise de uma amostra aleatória de repositórios hospedados no [GitHub](https://github.com/), os objetivos da pesquisa foram definidos com base nas perguntas listadas a seguir:
   - O fluxo do Git Flow é popular entre os repositórios de código aberto hospedados no GitHub?
